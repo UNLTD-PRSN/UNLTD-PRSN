@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# m.syafiiq ikbar.w (`UNLTD-PRSN`)
+# m.syafiiq ikbar.w (`UNLTD-PRSN`)
 
 not dev, just dev.
 
