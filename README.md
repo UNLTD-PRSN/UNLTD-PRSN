@@ -6,8 +6,8 @@ not dev, just dev.
 
 Young developer yang fokus membangun aplikasi lintas platform (Android, Windows) dan eksperimen web.
 
-- Website: https://pages.dev
-- GitHub: https://github.com
+- Website: https://miawproto.pages.dev
+- GitHub: https://github.com/UNLTD-PRSN
 
 ## Projects
 
